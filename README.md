@@ -1,18 +1,20 @@
+HOLA, SOY ANTHONY CASTILLO 🤓
+🚀 Sobre mí
 
-##  Hola, soy Anthony Castillo 👋
+👨‍💻 Actualmente estoy fortaleciendo mis conocimientos en programación.
 
-👨‍💻 estudiante de ingenieria informatica  
+🧠 Me interesa desarrollar mi pensamiento lógico y aprender nuevas tecnologías.
 
-🎧 Me gusta ecuchar musica 
+🛠️ Trabajo en proyectos personales para poner en práctica mis conocimientos y mejorar mis habilidades.
 
-🎮 Me gustan los videojuegos 
+📚 Me motiva el aprendizaje continuo y la mejora constante.
 
-📖 Me gusta aprender nuevas cosas todos los dias 
+🎮 Apasionado por los videojuegos, la música y los deportes.
 
-🏀 Aficionado de los deportes 
+🎯 Objetivos
 
-## Hasta ahora 
+Seguir desarrollando mis habilidades técnicas, adquirir experiencia práctica y construir proyectos que reflejen mi crecimiento como futuro profesional de la informática.
 
-👌 he realizado algunos proyectos por mi cuenta 
+📌 Filosofía
 
-🧠  me enfoco en aprender todos los dias 
+Aprender, practicar y mejorar constantemente.
